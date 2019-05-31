@@ -1,7 +1,7 @@
 public class extendedCalculator {
-/*
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
+  /*
         Double Rad0 = 0.0;
         Double Rad90 = (2 * Math.PI) / 4.0;
         Double Rad180 = (2 * Math.PI) / 2.0;
@@ -92,10 +92,11 @@ public class extendedCalculator {
         myResult = calcExp10(myTest);
         System.out.println("Exp10(" + myTest + ") = " + myResult);
 
+  */
 
     }
 
-*/
+
     // Round for printing Doubles.
     // keep the original variable value as incoming.
     // Not needed for Integer types.

@@ -376,7 +376,7 @@ public class Interface {
         inputNum = foundNum;
     }
 
-    private void performExpression(String) {
+    private void performExpression() {
 
         /* These are all of the extended functions
 
